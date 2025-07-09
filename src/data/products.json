@@ -1,0 +1,2369 @@
+{
+    "engines": [
+        {
+            "id": 1,
+            "type": {
+                "first": "Engine",
+                "second": "Diesel"
+            },
+            "image": "images/products/ED170.jpg",
+            "price": 1.00,
+            "name": "DIESEL ENGINE 4.7 TO 12HP",
+            "model": "ED170F",
+            "specifications": {
+                "Type": "Single cylinder, vertical, 4-stroke, air-cooled, direct injection",
+                "Bore*Stroke (mm)": "70*55",
+                "Displacement (L)": 0.211,
+                "Compression ratio": 20.0,
+                "Rated power (kW)": 2.5,
+                "Rated speed (rpm)": [
+                    3000,
+                    3600
+                ],
+                "The lowest speed at zero load (r/min)": "≤1300",
+                "Starting system": "Recoil / Electric starter",
+                "Rotation direction (view from the flywheel)": "Anticlockwise",
+                "Fuel tank capacity (L)": 2.5,
+                "Lube capacity (L)": 0.75,
+                "Fuel consumption (g/kWh)": {
+                    "3000rpm": 280
+                },
+                "Fuel type": "Diesel 0#(summer), -10#(winter), -20#, -35#(Chill cold)",
+                "Lube oil type": "SAE10W-30, SAE20W-40 OR L-ECDgrade(above)",
+                "Overall dimension (LxWxH)mm": "335*380*415",
+                "Dry weight (kg)": "≤27"
+            }
+        },
+        {
+            "id": 2,
+            "type": {
+                "first": "Engine",
+                "second": "Diesel"
+            },
+            "image": "images/products/ED178.jpg",
+            "price": 1.00,
+            "name": "DIESEL ENGINE 4.7 TO 10HP",
+            "model": "ED178FE",
+            "specifications": {
+                "Type": "single cylinder, vertical, 4-stroke, air-cooled, direct injection",
+                "Bore*Stroke (mm)": "78*64",
+                "Displacement (L)": 0.305,
+                "Compression ratio": 20.0,
+                "Rated power (kW/rpm)": 3.7,
+                "Rated speed (rpm)": [
+                    3000,
+                    3600
+                ],
+                "The lowest speed at zero load (r/min)": "≤1300",
+                "Starting system": "Recoil / Electric starter",
+                "Rotation direction (view from the flywheel)": "clockwise",
+                "Fuel tank capacity (L)": 3.5,
+                "Lube capacity (L)": 1.1,
+                "Fuel consumption (g/kWh)": {
+                    "3000rpm": 276,
+                    "3600rpm": 285.6
+                },
+                "Fuel": "diesel 0#(summer), -10#(winter), -20#, -35#(Chill cold)",
+                "Lube oil": "SAE10W-30, SAE20W-40 OR L-ECDgrade(above)",
+                "Overall dimension (LxWxH)mm": "385*420*450",
+                "Dry weight (kg)": "≤33"
+            }
+        },
+        {
+            "id": 3,
+            "type": {
+                "first": "Engine",
+                "second": "Diesel"
+            },
+            "image": "images/products/ED186.jpg",
+            "price": 100.00,
+            "name": "DIESEL ENGINE 4.7 TO 10HP",
+            "model": "ED186FE",
+            "specifications": {
+                "Type": "single cylinder, vertical, 4-stroke, air-cooled, direct injection",
+                "Bore*Stroke (mm)": "86*72",
+                "Displacement (L)": 0.418,
+                "Compression ratio": 19.0,
+                "Rated power (kW/rpm)": 5.7,
+                "Rated speed (rpm)": [
+                    3000,
+                    3600
+                ],
+                "The lowest speed at zero load (r/min)": "≤1300",
+                "Starting system": "Recoil / Electric starter",
+                "Rotation direction (view from the flywheel)": "clockwise",
+                "Fuel tank capacity (L)": 5.5,
+                "Lube capacity (L)": 1.65,
+                "Fuel consumption (g/kWh)": {
+                    "3000rpm": 275,
+                    "3600rpm": 281
+                },
+                "Fuel": "0#(summer), -10#(winter), diesel",
+                "Lube oil": "SAE10W30(above CC grade)",
+                "Overall dimension (LxWxH)mm": "420*440*495",
+                "Dry weight (kg)": "≤48"
+            }
+        },
+        {
+            "id": 4,
+            "type": {
+                "first": "Engine",
+                "second": "Diesel"
+            },
+            "image": "images/products/ED188.jpg",
+            "price": 100.00,
+            "name": "DIESEL ENGINE 4.7 TO 12HP",
+            "model": "ED188/ED188E",
+            "specifications": {
+                "Type": "single cylinder, vertical, 4-stroke, air-cooled, direct injection",
+                "BoreStroke (mm)": "8875",
+                "Displacement (L)": 0.456,
+                "Compression ratio": 19.1,
+                "Rated power (kW/rpm)": [
+                    6.6,
+                    7.2
+                ],
+                "Rated speed (rpm)": [
+                    3000,
+                    3600
+                ],
+                "The lowest speed at zero load (r/min)": "≤1300",
+                "Starting system": "Recoil / Electric starter",
+                "Rotation direction (view from the flywheel)": "clockwise",
+                "Fuel tank capacity (L)": 5.5,
+                "Lube capacity (L)": 1.65,
+                "Fuel consumption (g/kWh)": {
+                    "3000rpm": 275,
+                    "3600rpm": 281
+                },
+                "Fuel": "0#(summer),-10#(winter), diesel",
+                "Lube oil": "SAE10W30(above CC grade)",
+                "Overall dimension (LWH)(mm)": "500450530",
+                "Dry weight (kg)": [
+                    48,
+                    52
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "type": {
+                "first": "Engine",
+                "second": "Diesel"
+            },
+            "image": "images/products/ED192.jpg",
+            "price": 100.00,
+            "name": "DIESEL ENGINE 4.7 TO 12HP",
+            "model": "ED192",
+            "specifications": {
+                "Type": "single cylinder, vertical, 4-stroke, air-cooled, direct injection",
+                "Bore*Stroke (mm)": "92*75",
+                "Displacement (L)": 0.499,
+                "Compression ratio": 19.1,
+                "Rated power (kW/rpm)": [
+                    7.8,
+                    8.2
+                ],
+                "Rated speed (rpm)": [
+                    3000,
+                    3600
+                ],
+                "The lowest speed at zero load (r/min)": "≤1300",
+                "Starting system": "Recoil / Electric starter",
+                "Rotation direction (view from the flywheel)": "clockwise",
+                "Fuel tank capacity (L)": 5.5,
+                "Lube capacity (L)": 1.65,
+                "Fuel consumption (g/kWh)": {
+                    "3000rpm": 275,
+                    "3600rpm": 281
+                },
+                "Fuel": "0#(summer), -10#(winter), diesel",
+                "Lube oil": "SAE10W30(above CC grade)",
+                "Overall dimension (LxWxH)mm": "500*450*530",
+                "Dry weight (kg)": [
+                    49,
+                    53
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Heavy Duty Series",
+                "third": "Heavy Duty Generator"
+            },
+            "image": "images/products/EDE10SS3.jpg",
+            "price": 100.00,
+            "name": "HEAVY DUTY GENERATOR 8.5 TO 100 KVA",
+            "model": "EDE10SS3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    7.5,
+                    9.0
+                ],
+                "Max. power (KVA)": [
+                    8.3,
+                    10.0
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    10.8,
+                    12.5
+                ],
+                "Rated rotation speed (r/min)": [
+                    1500,
+                    1800
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "F",
+                "Pole number": 4,
+                "Excitation mode": "Brushless self-excitation and constant voltage (AVR)",
+                "Panel type": "Digital panel",
+                "ATS type": "Optional parts",
+                "Noise level [dB(A)/7m]": [
+                    51,
+                    53
+                ],
+                "Starter system": "Electric starter",
+                "Starter motor capacity (V-kW)": "12V 1.5kW",
+                "Battery capacity (V-Ah)": "12V 65Ah",
+                "Fuel tank capacity (L)": "-",
+                "Continuous running hour (hr)": "-",
+                "Structure type": "Ultra silent",
+                "Overall dimension (LxWxH)(mm)": "1460x770x920",
+                "Dry weight (kg)": 250,
+                "Engine model": "ED385"
+            }
+        },
+        {
+            "id": 7,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Heavy Duty Series",
+                "third": "Heavy Duty Generator"
+            },
+            "image": "images/products/EDE15SS3.jpg",
+            "price": 100.00,
+            "name": "HEAVY DUTY GENERATOR 8.5 TO 100 KVA",
+            "model": "EDE15SS3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    12.5,
+                    15.0
+                ],
+                "Max. power (KVA)": [
+                    14.0,
+                    16.5
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    18.1,
+                    20.8
+                ],
+                "Rated rotation speed (r/min)": [
+                    1500,
+                    1800
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "F",
+                "Pole number": 4,
+                "Excitation mode": "Brushless self-excitation and constant voltage (AVR)",
+                "Panel type": "Digital panel",
+                "ATS type": "Optional parts",
+                "Noise level [dB(A)/7m]": [
+                    51,
+                    53
+                ],
+                "Starter system(V-Kw)": "Electric starter",
+                "Starter motor capacity(V-kW)": "12V 1.4kW",
+                "Battery capacity (V-Ah)": "12V 65Ah",
+                "Fuel tank capacity (L)": 65,
+                "Continuous running hour (hr)": "-",
+                "Structure type": "Ultra silent",
+                "Overall dimension (LxWxH)(mm)": "1565x720x1090",
+                "Dry weight (kg)": 420,
+                "Engine model": "ED385"
+            }
+        },
+        {
+            "id": 8,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Heavy Duty Series",
+                "third": "Heavy Duty Generator"
+            },
+            "image": "images/products/EDE20SS3.jpg",
+            "price": 100.00,
+            "name": "HEAVY DUTY GENERATOR 8.5 TO 100 KVA",
+            "model": "EDE20SS3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    17.0,
+                    20.0
+                ],
+                "Max. power (KVA)": [
+                    18.5,
+                    22.0
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    24.6,
+                    27.8
+                ],
+                "Rated rotation speed (r/min)": [
+                    1500,
+                    1800
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "F",
+                "Pole number": 4,
+                "Excitation mode": "Brushless self-excitation and constant voltage (AVR)",
+                "Panel type": "Digital panel",
+                "ATS type": "Optional parts",
+                "Noise level [dB(A)/7m]": [
+                    51,
+                    53
+                ],
+                "Starter system(V-Kw)": "Electric starter",
+                "Starter motor capacity(V-kW)": "12V 1.4kW",
+                "Battery capacity (V-Ah)": "12V 65Ah",
+                "Fuel tank capacity (L)": 65,
+                "Continuous running hour (hr)": "-",
+                "Structure type": "Ultra silent",
+                "Overall dimension (LxWxH)(mm)": "1650x850x990",
+                "Dry weight (kg)": 420,
+                "Engine model": "ED490"
+            }
+        },
+        {
+            "id": 9,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Heavy Duty Series",
+                "third": "Heavy Duty Generator"
+            },
+            "image": "images/products/EDE30SS3.jpg",
+            "price": 100.00,
+            "name": "HEAVY DUTY GENERATOR 8.5 TO 100 KVA",
+            "model": "EDE30SS3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    24.0,
+                    28.0
+                ],
+                "Max. power (KVA)": [
+                    26.0,
+                    30.0
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    34.8,
+                    38.9
+                ],
+                "Rated rotation speed (r/min)": [
+                    1500,
+                    1800
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "H",
+                "Pole number": 4,
+                "Excitation mode": "Brushless self-excitation and constant voltage (AVR)",
+                "Panel type": "Digital panel",
+                "ATS type": "Optional parts",
+                "Noise level [dB(A)/7m]": [
+                    51,
+                    53
+                ],
+                "Starter system(V-Kw)": "Electric starter",
+                "Starter motor capacity(V-kW)": "12V 2.8kW",
+                "Battery capacity (V-Ah)": "12V 80Ah",
+                "Fuel tank capacity (L)": 95,
+                "Continuous running hour (hr)": "-",
+                "Structure type": "Ultra silent",
+                "Overall dimension (LxWxH)(mm)": "1940x990x1205",
+                "Dry weight (kg)": 850,
+                "Engine model": "ED495"
+            }
+        },
+        {
+            "id": 10,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Heavy Duty Series",
+                "third": "Heavy Duty Generator"
+            },
+            "image": "images/products/EDE60SS3.jpg",
+            "price": 100.00,
+            "name": "HEAVY DUTY GENERATOR 8.5 TO 100 KVA",
+            "model": "EDE60SS3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    50.0,
+                    60.0
+                ],
+                "Max. power (KVA)": [
+                    54.0,
+                    64.8
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    72.5,
+                    83.3
+                ],
+                "Rated rotation speed (r/min)": [
+                    1500,
+                    1800
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "H",
+                "Pole number": 4,
+                "Excitation mode": "Brushless self-excitation and constant voltage (AVR)",
+                "Panel type": "Digital panel",
+                "ATS type": "Optional parts",
+                "Noise level [dB(A)/7m]": [
+                    51,
+                    53
+                ],
+                "Starter system(V-Kw)": "Electric starter",
+                "Starter motor capacity(V-kW)": "24V 3.7kW",
+                "Battery capacity (V-Ah)": "24V 120Ah",
+                "Fuel tank capacity (L)": 95,
+                "Continuous running hour (hr)": "-",
+                "Structure type": "Ultra silent",
+                "Overall dimension (LxWxH)(mm)": "2450x1140x1540",
+                "Dry weight (kg)": 1200,
+                "Engine model": "ED4105Z"
+            }
+        },
+        {
+            "id": 11,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Heavy Duty Series",
+                "third": "Heavy Duty Generator"
+            },
+            "image": "images/products/EDE80SS3.jpg",
+            "price": 100.00,
+            "name": "HEAVY DUTY GENERATOR 8.5 TO 100 KVA",
+            "model": "EDE80SS3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    65.0,
+                    80.0
+                ],
+                "Max. power (KVA)": [
+                    70.2,
+                    86.4
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    94.2,
+                    111.1
+                ],
+                "Rated rotation speed (r/min)": [
+                    1500,
+                    1800
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "H",
+                "Pole number": 4,
+                "Excitation mode": "Brushless self-excitation and constant voltage (AVR)",
+                "Panel type": "Digital panel",
+                "ATS type": "Optional parts",
+                "Noise level [dB(A)/7m]": [
+                    51,
+                    53
+                ],
+                "Starter system(V-Kw)": "Electric starter",
+                "Starter motor capacity(V-kW)": "24V 3.7kW",
+                "Battery capacity (V-Ah)": "24V 120Ah",
+                "Fuel tank capacity (L)": 110,
+                "Continuous running hour (hr)": "-",
+                "Structure type": "Ultra silent",
+                "Overall dimension (LxWxH)(mm)": "2950x1450x1850",
+                "Dry weight (kg)": 1200,
+                "Engine model": "ED6105"
+            }
+        },
+        {
+            "id": 12,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Heavy Duty Series",
+                "third": "Heavy Duty Generator"
+            },
+            "image": "images/products/EDE100SS3.jpg",
+            "price": 100.00,
+            "name": "HEAVY DUTY GENERATOR 8.5 TO 100 KVA",
+            "model": "EDE100SS3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    75.0,
+                    100.0
+                ],
+                "Max. power (KVA)": [
+                    85.0,
+                    110.0
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    108.0,
+                    138.0
+                ],
+                "Rated rotation speed (r/min)": [
+                    1500,
+                    1800
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "H",
+                "Pole number": 4,
+                "Excitation mode": "Brushless self-excitation and constant voltage (AVR)",
+                "Panel type": "Digital panel",
+                "ATS type": "Optional parts",
+                "Noise level [dB(A)/7m]": [
+                    51,
+                    53
+                ],
+                "Starter system(V-Kw)": "Electric starter",
+                "Starter motor capacity(V-kW)": "24V 4.5kW",
+                "Battery capacity (V-Ah)": "24V 160Ah",
+                "Fuel tank capacity (L)": 110,
+                "Continuous running hour (hr)": "-",
+                "Structure type": "Ultra silent",
+                "Overall dimension (LxWxH)(mm)": "2950x1450x1850",
+                "Dry weight (kg)": 1500,
+                "Engine model": "ED6105Z"
+            }
+        },
+        {
+            "id": 13,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE2500X.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE2500X/E",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    1.7,
+                    2.0
+                ],
+                "Max. power (KVA)": [
+                    2.0,
+                    2.2
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "14.8/7.4",
+                    "16.7/9.3"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level [dB(A)/7m]": 77,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 15,
+                "Continuous running hour (hr)": 22,
+                "Structure type": "Open frame",
+                "Starter system": {
+                    "X": "Recoil starter",
+                    "E": "Electric starter"
+                },
+                "Overall dimension (LxWxH)(mm)": "690x540x600",
+                "Dry weight (kg)": {
+                    "X": 57,
+                    "E": 63
+                },
+                "Engine model": "ED170"
+            }
+        },
+        {
+            "id": 14,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE3500T.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 6.5 KVA",
+            "model": "EDE3500T",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    2.8,
+                    3.3
+                ],
+                "Max. power (KVA)": [
+                    3.2,
+                    3.8
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "24.4/12.2",
+                    "27.5/13.8"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level [dB(A)/7m]": 74,
+                "Battery capacity (V-Ah)": "12V 36AH",
+                "Fuel tank capacity (L)": 15,
+                "Continuous running hour (hr)": 14,
+                "Structure type": "Open frame",
+                "Starter system": {
+                    "X": "Recoil starter",
+                    "E": "Electric starter"
+                },
+                "Overall dimension (LxWxH)(mm)": "830*530*740",
+                "Dry weight (kg)": 140,
+                "Engine model": "ED178"
+            }
+        },
+        {
+            "id": 15,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE3500X.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE3500X/E",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    2.8,
+                    3.3
+                ],
+                "Max. power (KVA)": [
+                    3.2,
+                    3.8
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "24.4/12.2",
+                    "27.5/13.8"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level [dB(A)/7m]": 77,
+                "Battery capacity (V-Ah)": "12V 36AH",
+                "Fuel tank capacity (L)": 15,
+                "Continuous running hour (hr)": 14,
+                "Structure type": "Open frame",
+                "Starter system": {
+                    "X": "Recoil starter",
+                    "E": "Electric starter"
+                },
+                "Overall dimension (LxWxH)(mm)": "690x540x600",
+                "Dry weight (kg)": {
+                    "X": 70,
+                    "E": 76
+                },
+                "Engine model": "ED178"
+            }
+        },
+        {
+            "id": 16,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE6500T.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE6500T",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    5.0,
+                    5.5
+                ],
+                "Max. power (KVA)": [
+                    5.5,
+                    6.0
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "39.2/19.6",
+                    "41.7/20.8"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 72,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 16,
+                "Continuous running hour (hr)": 9.5,
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "985x575x780",
+                "Dry weight (kg)": 187,
+                "Engine model": "ED186"
+            }
+        },
+        {
+            "id": 17,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE6500T.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE6500T",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    5.0,
+                    5.5
+                ],
+                "Max. power (KVA)": [
+                    5.5,
+                    6.0
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "39.2/19.6",
+                    "41.7/20.8"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 72,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 16,
+                "Continuous running hour (hr)": 9.5,
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "985x575x780",
+                "Dry weight (kg)": 187,
+                "Engine model": "ED186"
+            }
+        },
+        {
+            "id": 18,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE6500T3.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE6500T3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    6.0,
+                    6.8
+                ],
+                "Max. power (KVA)": [
+                    6.5,
+                    7.5
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    7.9,
+                    8.7
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level [dB(A)/7m]": 72,
+                "Battery capacity (V-AH)": "12V 36AH",
+                "Fuel tank capacity (L)": 16,
+                "Continuous running hour (hr)": 9.5,
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "985x575x780",
+                "Dry weight (kg)": 187,
+                "Engine model": "ED186"
+            }
+        },
+        {
+            "id": 19,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE6500X3.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE6500X3/E3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    6.0,
+                    6.8
+                ],
+                "Max. power (KVA)": [
+                    6.5,
+                    7.5
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    7.9,
+                    8.7
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level [dB(A)/7m]": 79,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 15,
+                "Continuous running hour (hr)": 8,
+                "Structure type": "Open frame",
+                "Starter system": "X: Recoil starter E: Electric starter",
+                "Overall dimension (LxWxH)(mm)": "780x520x710",
+                "Dry weight (kg)": "X: 105 E: 110",
+                "Engine model": "ED186"
+            }
+        },
+        {
+            "id": 20,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE6500X.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE6500X/E",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    5.0,
+                    5.5
+                ],
+                "Max. power (KVA)": [
+                    5.5,
+                    6.0
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "39.2/19.6",
+                    "41.7/20.8"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level [dB(A)/7m]": 77,
+                "Battery capacity (V-AH)": "12V 36AH",
+                "Fuel tank capacity (L)": 15,
+                "Continuous running hour (hr)": 8,
+                "Structure type": "Open frame",
+                "Starter system": "X: Recoil starter E: Electric starter",
+                "Overall dimension (LxWxH)(mm)": "780x520x710",
+                "Dry weight (kg)": "X: 105 E: 110",
+                "Engine model": "ED186"
+            }
+        },
+        {
+            "id": 21,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE7000T.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE7000T",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    5.0,
+                    5.5
+                ],
+                "Max. power (KVA)": [
+                    5.5,
+                    6.0
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "39.2/19.6",
+                    "41.7/20.8"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 72,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 16,
+                "Continuous running hour (hr)": 9.5,
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "985x575x780",
+                "Dry weight (kg)": 187,
+                "Engine model": "ED186"
+            }
+        },
+        {
+            "id": 22,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE7000T3.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE7000T3",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    6.0,
+                    6.8
+                ],
+                "Max. power (KVA)": [
+                    6.5,
+                    7.5
+                ],
+                "Rated voltage (V)": [
+                    "230/400",
+                    "240/416"
+                ],
+                "Rated current (A)": [
+                    9.4,
+                    9.7
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "F",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 72,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 16,
+                "Continuous running hour (hr)": 9.5,
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "985x575x780",
+                "Dry weight (kg)": 187,
+                "Engine model": "ED186"
+            }
+        },
+        {
+            "id": 23,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE7500T.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE7500T",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    5.6,
+                    6.1
+                ],
+                "Rated voltage (V)": [
+                    230,
+                    240
+                ],
+                "Rated current (A)": [
+                    24.3,
+                    25.4
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1,
+                "Insulation grade": "F",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 72,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 16,
+                "Continuous running hour (hr)": "8.5-9.0",
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "940x565x800",
+                "Dry weight (kg)": 145,
+                "Engine model": "ED188"
+            }
+        },
+        {
+            "id": 24,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE8500T.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE8500T",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    6.0,
+                    6.5
+                ],
+                "Rated voltage (V)": [
+                    230,
+                    240
+                ],
+                "Rated current (A)": [
+                    26.1,
+                    27.1
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1,
+                "Insulation grade": "F",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 72,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 25,
+                "Continuous running hour (hr)": "12-13",
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "940x565x910",
+                "Dry weight (kg)": 155,
+                "Engine model": "ED192"
+            }
+        },
+        {
+            "id": 25,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE9000E.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE9000E",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    7.0,
+                    7.5
+                ],
+                "Rated voltage (V)": [
+                    230,
+                    240
+                ],
+                "Rated current (A)": [
+                    30.4,
+                    31.3
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1,
+                "Insulation grade": "F",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 15,
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "740X505X600",
+                "Dry weight (kg)": 150,
+                "Engine model": "ED195"
+            }
+        },
+        {
+            "id": 26,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE10000E.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE10000E",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    8.0,
+                    8.5
+                ],
+                "Rated voltage (V)": [
+                    230,
+                    240
+                ],
+                "Rated current (A)": [
+                    34.8,
+                    35.4
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1,
+                "Insulation grade": "F",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 15,
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "805X610X800",
+                "Dry weight (kg)": 138,
+                "Engine model": "ED1100"
+            }
+        },
+        {
+            "id": 27,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Diesel"
+            },
+            "image": "images/products/EDE11000T.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR DIESEL 2 TO 12.5 KVA",
+            "model": "EDE11000T",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    10,
+                    12
+                ],
+                "Rated voltage (V)": [
+                    230,
+                    240
+                ],
+                "Rated current (A)": [
+                    43.5,
+                    50
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase",
+                "Power factor (cosφ)": 1,
+                "Insulation grade": "F",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage (AVR)",
+                "Panel type": "General Panel",
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 25,
+                "Continuous running hour (hr)": "12-13",
+                "Structure type": "Silent",
+                "Starter system": "Electric starter",
+                "Overall dimension (LxWxH)(mm)": "1140x740x1130",
+                "Dry weight (kg)": 330,
+                "Engine model": "ED2V92"
+            }
+        },
+        {
+            "id": 28,
+            "type": {
+                "first": "Water Pump",
+                "second": "High Pressure Pump"
+            },
+            "image": "images/products/EDP15HE.jpg",
+            "price": 100.00,
+            "name": "PROFESSIONAL PUMP HIGH PRESSURE",
+            "model": "EDP15H",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "40(1.5”)",
+                "Rated capacity (m3/h)": 5.0,
+                "Max. Capacity (m3/h)": 8.8,
+                "Rated total head [m (ft)]": "42(137.34)",
+                "Max. total head [m (ft)]": "70(21.34)",
+                "Self-priming time (s/4m)": 40,
+                "Max suction head [m (ft)]": "8(26.16)",
+                "Rotation speed (rpm)": 3600,
+                "Fuel consumption (g/kWh)": 530,
+                "Noise level [dB (A)/7m]": 79,
+                "Starter system": "Recoil starter / electric starter(E)",
+                "Overall dimension (L*W*H) (mm)": "570x445x550",
+                "Dry weight (kg)": "54/60",
+                "Engine model": "ED178"
+            }
+        },
+        {
+            "id": 29,
+            "type": {
+                "first": "Water Pump",
+                "second": "Diesel Normal Pump"
+            },
+            "image": "images/products/EDP20.jpg",
+            "price": 100.00,
+            "name": "WATER PUMP DIESEL",
+            "model": "EDP20",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "50(2”)",
+                "Rated capacity (m3/h)": 22.0,
+                "Max. Capacity (m3/h)": 36.0,
+                "Rated total head [m (ft)]": "15(49.0)",
+                "Max. total head [m (ft)]": "26(85.30)",
+                "Self-priming time (s/4m)": 80,
+                "Max suction head [m (ft)]": "8(26.16)",
+                "Rotation speed (rpm)": 3600,
+                "Fuel consumption (g/kWh)": 517,
+                "Noise level [dB (A)/7m]": 74,
+                "Starter system": "Recoil starter / electric starter(E)",
+                "Overall dimension (L*W*H) (mm)": "525x410x515",
+                "Dry weight (kg)": "35/39",
+                "Engine model": "ED170"
+            }
+        },
+        {
+            "id": 30,
+            "type": {
+                "first": "Water Pump",
+                "second": "Sewage Pump"
+            },
+            "image": "images/products/EDP20S.jpg",
+            "price": 100.00,
+            "name": "PROFESSIONAL PUMP SEWAGE",
+            "model": "EDP20S/EDP20SE",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "50(2”)",
+                "Rated capacity (l/min)": 500,
+                "Rated total head [m]": 28,
+                "Self-priming time (s/4m)": 120,
+                "Max suction head [m(ft)]": 7,
+                "Rotation speed (rpm)": 3600,
+                "Starter system": "Recoil starter / electric starter(E)",
+                "Overall dimension (L*W*H) (mm)": "605x460x560",
+                "Dry weight (kg)": 46,
+                "Engine model": "ED173"
+            }
+        },
+        {
+            "id": 31,
+            "type": {
+                "first": "Water Pump",
+                "second": "Diesel Normal Pump"
+            },
+            "image": "images/products/EDP30.jpg",
+            "price": 100.00,
+            "name": "WATER PUMP DIESE",
+            "model": "EDP30",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "80(3”)",
+                "Rated capacity (m3/h)": 30.0,
+                "Max. Capacity (m3/h)": 55.0,
+                "Rated total head [m (ft)]": "13(42.65)",
+                "Max. total head [m (ft)]": "25(82)",
+                "Self-priming time (s/4m)": 120,
+                "Max suction head [m(ft)]": "8(26.16)",
+                "Rotation speed (rpm)": 3600,
+                "Fuel consumption (g/kWh)": 441,
+                "Noise level [dB (A)/7m]": 76,
+                "Starter system": "Recoil starter / electric starter(E)",
+                "Overall dimension (L*W*H) (mm)": "570x445x565",
+                "Dry weight (kg)": "49/60",
+                "Engine model": "ED178"
+            }
+        },
+        {
+            "id": 32,
+            "type": {
+                "first": "Water Pump",
+                "second": "Fire Pump"
+            },
+            "image": "images/products/EDP30F.jpg",
+            "price": 100.00,
+            "name": "WATER PUMP FIRE",
+            "model": "EDP30F/EDP30FE",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "65(2.5”)",
+                "Rated capacity (l/min)": 680,
+                "Rated total head [m]": 65,
+                "Max. pressure (mpa)": 0.75,
+                "Self-priming time (s/4m)": "≤20",
+                "Max suction head [m (ft)]": "7",
+                "Rotation speed (rpm)": 3600,
+                "Starter system": "Recoil starter / electric starter(E)",
+                "Overall dimension (L*W*H) (mm)": "660x540x570",
+                "Dry weight (kg)": 75,
+                "Engine model": "ED188"
+            }
+        },
+        {
+            "id": 33,
+            "type": {
+                "first": "Water Pump",
+                "second": "Sewage Pump"
+            },
+            "image": "images/products/EDP30S.jpg",
+            "price": 100.00,
+            "name": "WATER PUMP SEWAGE",
+            "model": "EDP30S/EDP30SE",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "80(3”)",
+                "Rated capacity (l/min)": 100.000,
+                "Rated total head [m]": 28,
+                "Self-priming time (s/4m)": 180,
+                "Max suction head [m (ft)]": "7",
+                "Rotation speed (rpm)": 3600,
+                "Starter system": "Recoil starter / electric starter(E)",
+                "Overall dimension (L*W*H) (mm)": "605x460x560",
+                "Dry weight (kg)": 52,
+                "Engine model": "ED178"
+            }
+        },
+        {
+            "id": 34,
+            "type": {
+                "first": "Water Pump",
+                "second": "Diesel Normal Pump"
+            },
+            "image": "images/products/EDP40E.jpg",
+            "price": 100.00,
+            "name": "WATER PUMP DIESEL",
+            "model": "EDP40E",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "100(4”)",
+                "Rated capacity (m3/h)": 40.0,
+                "Max. Capacity (m3/h)": 75.0,
+                "Rated total head [m (ft)]": "16(52.49)",
+                "Max. total head [m (ft)]": "31(101.71)",
+                "Self-priming time (s/4m)": 180,
+                "Max suction head [m (ft)]": "8(26.16)",
+                "Rotation speed (rpm)": 3600,
+                "Fuel consumption (g/kWh)": 435,
+                "Noise level [dB (A)/7m]": 79,
+                "Starter system": "Recoil starter / electric starter(E)",
+                "Overall dimension (L*W*H) (mm)": "650x480x600",
+                "Dry weight (kg)": "49/60",
+                "Engine model": "EM186"
+            }
+        },
+        {
+            "id": 35,
+            "type": {
+                "first": "Agri Garden Tools",
+                "second": "Pressure Washer"
+            },
+            "image": "images/products/EDP3600W.jpg",
+            "price": 100.00,
+            "name": "HIGH PRESSURE WASHER",
+            "model": "EDP3600W",
+            "specifications": {
+                "Suction & discharge port diameter (mm)": "19.05/9.5",
+                "Rated capacity (l/min)": 18,
+                "Working pressure (kg)": 250,
+                "Max. pressure (kg)": 280,
+                "Crank bore (mm)": 18,
+                "Pump head type": "1807",
+                "Rotation speed (rpm)": 3600,
+                "Starter system": "Recoil starter / electric starter(E)",
+                "Overall dimension (L*W*H) (mm)": "735x590x585",
+                "Dry weight (kg)": 133,
+                "Engine model": "ED188"
+            }
+        },
+        {
+            "id": 36,
+            "type": {
+                "first": "Agri Garden Tools",
+                "second": "Disel Gasoline Tiller"
+            },
+            "image": "images/products/EDT1050.jpg",
+            "price": 100.00,
+            "name": "DIESEL TILLER",
+            "model": "EDT1050",
+            "specifications": {
+                "Working width (mm)": 1050,
+                "Working depth (mm)": "≥100",
+                "Gear shifting": "Fast-N-Slow-R",
+                "Transmission": "Gear",
+                "Oil capacity (gear box) (l)": 2.5,
+                "Starting system": "Recoil starter",
+                "Engine model": "ED173",
+                "Bore x stroke": "73X59",
+                "Max. power (kw/rpm)": "4.05/3600",
+                "Fuel capacity (l)": 2.5,
+                "Fuel type": "Diesel 0# (summer), -10# (winter), -20#, -35# (Chill cold)",
+                "Oil capacity (engine) (l)": 0.75,
+                "Fuel consumption (g/kw.h)": "≤285",
+                "Overall dimension (L*W*H) (mm)": "820X450X830",
+                "Dry weight (kg)": "80/90"
+            }
+        },
+        {
+            "id": 37,
+            "type": {
+                "first": "Agri Garden Tools",
+                "second": "Disel Gasoline Tiller"
+            },
+            "image": "images/products/EDT1350.jpg",
+            "price": 100.00,
+            "name": "DIESEL TILLER",
+            "model": "EDT1350",
+            "specifications": {
+                "Working width (mm)": 1350,
+                "Working depth (mm)": "≥250",
+                "Gear shifting": "Fast-N-Slow-R",
+                "Transmission": "Gear",
+                "Oil capacity (gear box) (l)": 4,
+                "Starting system": "Electric starter",
+                "Engine model": "ED186",
+                "Bore x stroke": "86X72",
+                "Max. power (kw/rpm)": "6.3/3600",
+                "Fuel capacity (l)": 5.5,
+                "Fuel type": "Diesel 0# (summer), -10# (winter), -20#, -35# (Chill cold)",
+                "Oil capacity (engine) (l)": 1.65,
+                "Fuel consumption (g/kw.h)": "≤285",
+                "Overall dimension (L*W*H) (mm)": "910X570X880",
+                "Dry weight (kg)": "100/110"
+            }
+        },
+        {
+            "id": 38,
+            "type": {
+                "first": "Engine",
+                "second": "Gasoline"
+            },
+            "image": "images/products/EG160.jpg",
+            "price": 100.00,
+            "name": "GASOLINE ENGINE 5 TO 20 HP",
+            "model": "EG160",
+            "specifications": {
+                "Type": "Single-cylinder, diagonal cylinder, 4-stroke, air-cooled, OHV",
+                "Bore*Stroke (mm)": "68x45",
+                "Displacement (L)": 0.163,
+                "Compression ratio": 8.5,
+                "Rated power (kW)": "3 ,3.3",
+                "Rated speed (rpm)": "3000 3600",
+                "The lowest speed at zero load (r/min)": "≤1440",
+                "Lubricating system": "Splashed",
+                "Starting system": "Recoil starter",
+                "Ignition system": "Electric starter",
+                "Spark plug": "F6TC",
+                "Rotation direction (view from the flywheel)": "Anticlockwise",
+                "Fuel type": "Automotive unleaded gasoline",
+                "Fuel capacity (L)": 3.6,
+                "The fuel consumption (g/kWh)": 395,
+                "Lube oil type": "SAE10W30 (above CC grade)",
+                "Lube capacity (L)": 0.6,
+                "Overall dimension (L*W*H) (mm)": "305x365x340",
+                "Dry weight (kg)": 15
+            }
+        },
+        {
+            "id": 39,
+            "type": {
+                "first": "Engine",
+                "second": "Gasoline"
+            },
+            "image": "images/products/EG200.jpg",
+            "price": 100.00,
+            "name": "GASOLINE ENGINE 5 TO 13 HP",
+            "model": "EG200",
+            "specifications": {
+                "Type": "Single-cylinder, diagonal cylinder, 4-stroke, air-cooled, OHV",
+                "Bore*Stroke (mm)": "68*45",
+                "Displacement (L)": 0.196,
+                "Compression ratio": 8.5,
+                "Rated power (kW)": "3.6 ,4",
+                "Rated speed (rpm)": "3000 ,3600",
+                "The lowest speed at zero load (r/min)": "≤1440",
+                "Lubricating system": "Splashed",
+                "Starting system": "Recoil starter",
+                "Ignition system": "Electric starter",
+                "Spark plug": "F6TC",
+                "Rotation direction (view from the flywheel)": "Anticlockwise",
+                "Fuel type": "Automotive unleaded gasoline",
+                "Fuel capacity (L)": 3.6,
+                "The fuel consumption (g/kWh)": 395,
+                "Lube oil type": "SAE10W30 (above CC grade)",
+                "Lube capacity (L)": 0.6,
+                "Overall dimension (L*W*H) (mm)": "320*380*340",
+                "Dry weight (kg)": 16
+            }
+        },
+        {
+            "id": 40,
+            "type": {
+                "first": "Engine",
+                "second": "Gasoline"
+            },
+            "image": "images/products/EG270.jpg",
+            "price": 100.00,
+            "name": "GASOLINE ENGINE 5 TO 13 HP",
+            "model": "EG270",
+            "specifications": {
+                "Type": "Single-cylinder, diagonal cylinder, 4-stroke, air-cooled, OHV",
+                "Bore*Stroke (mm)": "77*58",
+                "Displacement (L)": 0.270,
+                "Compression ratio": 8.5,
+                "Rated power (kW)": "5 ,5.5",
+                "Rated speed (rpm)": "3000 ,3600",
+                "The lowest speed at zero load (r/min)": "≤1440",
+                "Lubricating system": "Splashed",
+                "Starting system": "Recoil starter",
+                "Ignition system": "Electric starter",
+                "Spark plug": "F6TC",
+                "Rotation direction (view from the flywheel)": "Anticlockwise",
+                "Fuel type": "Automotive unleaded gasoline",
+                "Fuel capacity (L)": 6,
+                "The fuel consumption (g/kWh)": 374,
+                "Lube oil type": "SAE10W30 (above CC grade)",
+                "Lube capacity (L)": 1.1,
+                "Overall dimension (L*W*H) (mm)": "380*435*416",
+                "Dry weight (kg)": 25
+            }
+        },
+        {
+            "id": 41,
+            "type": {
+                "first": "Engine",
+                "second": "Gasoline"
+            },
+            "image": "images/products/EG390E.jpg",
+            "price": 100.00,
+            "name": "GASOLINE ENGINE 5 TO 20 HP ",
+            "model": "EG390E",
+            "specifications": {
+                "Type": "Single-cylinder, diagonal cylinder, 4-stroke, air-cooled, OHV",
+                "BoreStroke (mm)": "8864",
+                "Displacement (L)": 0.389,
+                "Compression ratio": 8.5,
+                "Rated power (kW)": "7 ,7.7",
+                "Rated speed (rpm)": "3000 .3600",
+                "The lowest speed at zero load (r/min)": "≤1440",
+                "Lubricating system": "Splashed",
+                "Starting system": "Recoil starter or electric starter",
+                "Ignition system": "Electric starter",
+                "Spark plug": "F6TC",
+                "Rotation direction (view from the flywheel)": "Anticlockwise",
+                "Fuel type": "Automotive unleaded gasoline",
+                "Fuel capacity (L)": 6.5,
+                "The fuel consumption (g/kWh)": 374,
+                "Lube oil type": "SAE10W30 (above CC grade)",
+                "Lube capacity (L)": 1.1,
+                "Overall dimension (LWH) (mm)": "405452435",
+                "Dry weight (kg)": 31
+            }
+        },
+        {
+            "id": 42,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Gasoline"
+            },
+            "image": "images/products/EG690.jpg",
+            "price": 100.00,
+            "name": "GASOLINE ENGINE 5 TO 20HP ",
+            "model": "EG690",
+            "specifications": {
+                "Type": "Two-cylinders, V-twin, 4-stroke, air-cooled, OHV",
+                "BoreStroke (mm)": "7872",
+                "Displacement (L)": 0.688,
+                "Compression ratio": 8.5,
+                "Rated power (kW)": "12 ,14",
+                "Rated speed (rpm)": "3000 ,3600",
+                "The lowest speed at zero load (r/min)": "≤1440",
+                "Ignition system": "Pressure splashed",
+                "Spark plug": "F6TC",
+                "Rotation direction (view from the flywheel)": "Anticlockwise",
+                "Fuel type": "Automotive unleaded gasoline",
+                "Fuel capacity (L)": "-",
+                "Fuel consumption (g/kWh)": 370,
+                "Lube oil type": "SAE10W30 (above CC grade)",
+                "Lube capacity (L)": 1.4,
+                "Starting Motor Capacity (V, Kw)": "12V 1.4Kw",
+                "Charging Generator Capacity (V, A)": "12V 8A",
+                "Accumulator Capacity (V, AH)": "12V 36AH",
+                "Overall dimension (LWH) (mm)": "425X480X472",
+                "Dry weight (kg)": 50
+            }
+        },
+        {
+            "id": 43,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Digital Series",
+                "third": "Inverter"
+            },
+            "image": "images/products/EGE770.jpg",
+            "price": 100.00,
+            "name": "DIGITAL GENERATOR 0.7 TO 7 KVA",
+            "model": "EGE770Ti",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": 0.7,
+                "Max. power (KVA)": 0.8,
+                "Rated voltage (V)": [
+                    230,
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    3.04,
+                    "5.82/2.92"
+                ],
+                "Rated rotation speed (r/min)": 6000,
+                "DC output (KVA)": "12V-4A",
+                "Phase NO.": "Single",
+                "Current circuit breaker": "Without",
+                "Starting system": "Recoil starter",
+                "Noise level (zero load～full load) [dB(A)/7m]": "60-65",
+                "Fuel tank capacity (L)": 1.6,
+                "Set fuel consumption (g/kw.h)": 420,
+                "Continuous running hour (hr)": 4,
+                "Fuel type": "Automotive unleaded gasoline",
+                "Lube type": "SAE10W30 (above CC grade)",
+                "Structure type": "Portable",
+                "Overall dimension (LxWxH)(mm)": "395x221x350",
+                "Dry weight (kg)": 9.5,
+                "Engine model": "EG40",
+                "Engine type": "Single cylinder, four-stroke, OHV, gasoline engine",
+                "Bore X Stroke": "40x30",
+                "Displacement (Ml)": 38,
+                "Compression ratio": 8.5,
+                "Ignition system": "T.C.I"
+            }
+        },
+        {
+            "id": 44,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Digital Series",
+                "third": "Inverter"
+            },
+            "image": "images/products/EGE1000TI.jpg",
+            "price": 100.00,
+            "name": "DIGITAL GENERATOR 0.7 TO 7 KVA",
+            "model": "EGE1000Ti",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": 0.9,
+                "Max. power (KVA)": 1.0,
+                "Rated voltage (V)": [
+                    230,
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    3.9,
+                    "7.5/3.8"
+                ],
+                "Rated rotation speed (r/min)": 5500,
+                "DC output (KVA)": "12V-6.0A",
+                "Phase NO.": "Single",
+                "Current circuit breaker": "Without",
+                "Starting system": "Recoil starter",
+                "Noise level (zero load～full load) [dB(A)/7m]": "54-59",
+                "Fuel tank capacity (L)": 2.1,
+                "Set fuel consumption (g/kw.h)": 400,
+                "Continuous running hour (hr)": 4,
+                "Fuel type": "Automotive unleaded gasoline",
+                "Lube type": "SAE10W30 (above CC grade)",
+                "Structure type": "Portable",
+                "Overall dimension (LxWxH)(mm)": "480x260x380",
+                "Dry weight (kg)": 14.8,
+                "Engine model": "EG55",
+                "Engine type": "Single cylinder, four-stroke, OHV, gasoline engine",
+                "Bore X Stroke": "43.5x36",
+                "Displacement (Ml)": 53.5,
+                "Compression ratio": 8.5,
+                "Ignition system": "T.C.I"
+            }
+        },
+        {
+            "id": 45,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Digital Series",
+                "third": "Inverter"
+            },
+            "image": "images/products/EGE2000TI.jpg",
+            "price": 100.00,
+            "name": "DIGITAL GENERATOR 0.7 TO 7 KVA",
+            "model": "EGE2000Ti",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": 1.6,
+                "Max. power (KVA)": 2.0,
+                "Rated voltage (V)": [
+                    230,
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    7,
+                    "13.3/6.7"
+                ],
+                "Rated rotation speed (r/min)": 4500,
+                "DC output (KVA)": "12V-6A",
+                "Phase NO.": "Single",
+                "Current circuit breaker": "Without",
+                "Starting system": "Recoil starter",
+                "Noise level (zero load～full load) [dB(A)/7m]": "61-73",
+                "Fuel tank capacity (L)": 3.7,
+                "Set fuel consumption (g/kw.h)": 400,
+                "Continuous running hour (hr)": 3,
+                "Fuel type": "Automotive unleaded gasoline",
+                "Lube type": "SAE10W30 (above CC grade)",
+                "Structure type": "Portable",
+                "Overall dimension (LxWxH)(mm)": "535X300X435",
+                "Dry weight (kg)": 24,
+                "Engine model": "EG158",
+                "Engine type": "Single cylinder, four-stroke, OHV, gasoline engine",
+                "Bore X Stroke": "60X40",
+                "Displacement (Ml)": 110,
+                "Compression ratio": 8.5,
+                "Ignition system": "T.C.I"
+            }
+        },
+        {
+            "id": 46,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Gasoline"
+            },
+            "image": "images/products/EDE2500X.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR GASOLINE 2 TO 6.5 KVA",
+            "model": "EGE2500X",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    2.0,
+                    2.2
+                ],
+                "Max. power (KVA)": [
+                    2.2,
+                    2.4
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "17.4/8.7",
+                    "18.3/9.2"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase three loops",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage(AVR)",
+                "Panel type": "General Panel",
+                "Noise level [dB(A)/7m]": 66,
+                "Battery capacity(V-Ah)": "Without",
+                "Fuel tank capacity (L)": 25,
+                "Continuous running hour (hr)": 21.5,
+                "Structure type": "Open frame",
+                "Starter system": "Recoil starter",
+                "Overall dimension (LxWxH)(mm)": "625x465x465",
+                "Dry weight (kg)": 45,
+                "Engine model": "EG200"
+            }
+        },
+        {
+            "id": 47,
+            "type": {
+                "first": "Generating Sets",
+                "second": "Digital Series",
+                "third": "Inverter"
+            },
+            "image": "images/products/EGE3000TI.jpg",
+            "price": 100.00,
+            "name": "DIGITAL GENERATOR 1 TO 7 KVA",
+            "model": "EGE3000Ti",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": 2.8,
+                "Max. power (KVA)": 3.0,
+                "Rated voltage (V)": [
+                    230,
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    12.2,
+                    "23.3/11.7"
+                ],
+                "Rated rotation speed (r/min)": 3600,
+                "DC output (KVA)": "12V-6A",
+                "Phase NO.": "Single",
+                "Current circuit breaker": "Without",
+                "Starting system": "Recoil starter & Electric starter",
+                "Noise level (zero load～full load) [dB(A)/7m]": "61-73",
+                "Fuel tank capacity (L)": 12,
+                "Set fuel consumption (g/kw.h)": 395,
+                "Continuous running hour (hr)": 6.5,
+                "Fuel type": "Automotive unlead gasoline",
+                "Lube type": "SAE10W30 (above CC grade)",
+                "Structure type": "Silent",
+                "Overall dimension (LxWxH)(mm)": "650x410x485",
+                "Dry weight (kg)": 42,
+                "Engine model": "EG205",
+                "Engine type": "Single cylinder, four-stroke, OHV, gasoline engine",
+                "Bore X Stroke": "68x54",
+                "Displacement (Ml)": 205,
+                "Compression ratio": 8.5,
+                "Ignition system": "T.C.I"
+            }
+        },
+        {
+            "id": 48,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Gasoline"
+            },
+            "image": "images/products/EGE4000X.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR GASOLINE 2 TO 6.5 KVA",
+            "model": "EGE4000X",
+            "specifications": {
+                "kind": 2,
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    3.0,
+                    3.5
+                ],
+                "Max. power (KVA)": [
+                    3.3,
+                    4.0
+                ],
+                "Rated voltage (V)": [
+                    "115/230",
+                    "120/240"
+                ],
+                "Rated current (A)": [
+                    "26/13",
+                    "29.2/14.6"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase three loops",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage(AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 69,
+                "Battery capacity (V-Ah)": "Without",
+                "Fuel tank capacity (L)": 32,
+                "Continuous running hour (hr)": 20,
+                "Structure type": "Open frame",
+                "Starter system": "Recoil starter",
+                "Overall dimension (LxWxH)(mm)": "700x555x590",
+                "Dry weight (kg)": 76,
+                "Engine model": "EG270"
+            }
+        },
+        {
+            "id": 49,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Gasoline"
+            },
+            "image": "images/products/EGE6500E3.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR GASOLINE 2 TO 6.5 KVA",
+            "model": "EGE6500E3",
+            "specifications": {
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    5.6,
+                    6.2
+                ],
+                "Max. power (KVA)": [
+                    6.0,
+                    7.0
+                ],
+                "Rated voltage (V)": [
+                    "400/230",
+                    "416/240"
+                ],
+                "Rated current (A)": [
+                    8.0,
+                    8.7
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Three-phase \"Y\" type connection",
+                "Power factor (cosφ)": 0.8,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage(AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 74,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 32,
+                "Continuous running hour (hr)": 12,
+                "Starter system": "X: Recoil starter E: Electric starter",
+                "Structure type": "Open frame",
+                "Overall dimension (LxWxH)(mm)": "700x555x600",
+                "Dry weight (kg)": 84,
+                "Engine model": "EG390"
+            }
+        },
+        {
+            "id": 50,
+            "type": {
+                "first": "Generating Sets",
+                "second": "General Series",
+                "third": "Gasoline"
+            },
+            "image": "images/products/EGE6500E.jpg",
+            "price": 100.00,
+            "name": "GENERAL GENERATOR GASOLINE 2 TO 6.5 KVA",
+            "model": "EGE6500X/E",
+            "specifications": {
+                "Rated Frequency (Hz)": [
+                    50,
+                    60
+                ],
+                "Rated power (KVA)": [
+                    5.0,
+                    5.5
+                ],
+                "Max. power (KVA)": [
+                    5.5,
+                    6.5
+                ],
+                "Rated voltage (V)": [
+                    "230/115",
+                    "240/120"
+                ],
+                "Rated current (A)": [
+                    "43.6/21.8",
+                    "45.8/22.9"
+                ],
+                "Rated rotation speed (r/min)": [
+                    3000,
+                    3600
+                ],
+                "Phase NO.": "Single-phase three loops",
+                "Power factor (cosφ)": 1.0,
+                "Insulation grade": "B",
+                "Pole number": 2.0,
+                "Excitation mode": "Self-excitation and constant voltage(AVR)",
+                "Panel type": "General Panel",
+                "Noise level (dB(A)/7m)": 74,
+                "Battery capacity (V-Ah)": "12V 36Ah",
+                "Fuel tank capacity (L)": 32,
+                "Continuous running hour (hr)": 12,
+                "Starter system": "X: Recoil starter E: Electric starter",
+                "Structure type": "Open frame",
+                "Overall dimension (LxWxH)(mm)": "700x555x600",
+                "Dry weight (kg)": 84,
+                "Engine model": "EG390"
+            }
+        },
+        {
+            "id": 51,
+            "type": {
+                "first": "Agri Garden Tools",
+                "second": "Disel Gasoline Tiller"
+            },
+            "image": "images/products/EGT1000.jpg",
+            "price": 100.00,
+            "name": "GASOLINE TILLER",
+            "model": "EGT1000",
+            "specifications": {
+                "Working width (mm)": "900-1050",
+                "Working depth (mm)": "≥100",
+                "Gear shifting": "Fast-N-Slow-R",
+                "Transmission": "Gear",
+                "Oil capacity (gear box) (l)": 2.5,
+                "Starting system": "Recoil starter",
+                "Engine model": "EG210",
+                "Bore x stroke (mm)": "70X56",
+                "Max. power (kW/rpm)": "5.15/3600",
+                "Fuel capacity (l)": 3.6,
+                "Fuel type": "Automotive unleaded gasoline",
+                "Oil capacity (engine) (l)": 0.6,
+                "Fuel consumption (g/kw.h)": "≤340",
+                "Overall dimension (LWH) (mm)": "820X450X830",
+                "Dry weight (kg)": "70/80"
+            }
+        },
+        {
+            "id": 52,
+            "type": {
+                "first": "Water Pump",
+                "second": "Sewage Pump"
+            },
+            "image": "images/products/EGP15H.jpg",
+            "price": 100.00,
+            "name": "PROFESSIONAL PUMP HIGH PRESSURE",
+            "model": "EGP15H",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "40(1.5”)",
+                "Rated capacity (m3/h)": 5.0,
+                "Max. Capacity (m3/h)": 8.0,
+                "Rated total head [m (ft)]": "42(137.34)",
+                "Max. total head [m (ft)]": "70(229.66)",
+                "Self-priming time (s/4m)": 40,
+                "Max suction head [m (ft)]": "8(26.16)",
+                "Rotation speed (rpm)": 3600,
+                "Fuel consumption (g/kWh)": 1200,
+                "Noise level [dB (A)/7m]": 72,
+                "Starter system": "Recoil starter",
+                "Overall dimension (LWH) (mm)": "510x430x435",
+                "Dry weight (kg)": 24,
+                "Engine model": "EG200"
+            }
+        },
+        {
+            "id": 53,
+            "type": {
+                "first": "Water Pump",
+                "second": "Gasoline Normal Pump"
+            },
+            "image": "images/products/EGP20.jpg",
+            "price": 100.00,
+            "name": "WATER PUMP GASOLINE",
+            "model": "EGP20",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "50(2”)",
+                "Rated capacity (m3/h)": 22.0,
+                "Max. Capacity (m3/h)": 36.0,
+                "Rated total head [m (ft)]": "15(49.21)",
+                "Max. total head [m (ft)]": "26(85.30)",
+                "Self-priming time (s/4m)": 80,
+                "Max suction head [m (ft)]": "8(26.16)",
+                "Rotation speed (rpm)": 3600,
+                "Fuel consumption (g/kWh)": 1200,
+                "Noise level [dB (A)/7m]": 74,
+                "Starter system": "Recoil starter",
+                "Overall dimension (LWH) (mm)": "480x430x400",
+                "Dry weight (kg)": 27,
+                "Engine model": "EG160"
+            }
+        },
+        {
+            "id": 54,
+            "type": {
+                "first": "Water Pump",
+                "second": "Gasoline Normal Pump"
+            },
+            "image": "images/products/EGP30.jpg",
+            "price": 100.00,
+            "name": "WATER PUMP GASOLINE",
+            "model": "EGP30",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "80(3”)",
+                "Rated capacity (m3/h)": 30.0,
+                "Max. Capacity (m3/h)": 55.0,
+                "Rated total head [m (ft)]": "13(42.65)",
+                "Max. total head [m (ft)]": "25(82)",
+                "Self-priming time (s/4m)": 120,
+                "Max suction head [m (ft)]": "8(26.16)",
+                "Rotation speed (rpm)": 3600,
+                "Fuel consumption (g/kWh)": 1200,
+                "Noise level [dB (A)/7m]": 74,
+                "Starter system": "Recoil starter",
+                "Overall dimension (LWH) (mm)": "510x430x435",
+                "Dry weight (kg)": 30,
+                "Engine model": "EG200"
+            }
+        },
+        {
+            "id": 55,
+            "type": {
+                "first": "Water Pump",
+                "second": "Gasoline Normal Pump"
+            },
+            "image": "images/products/EGP40.jpg",
+            "price": 100.00,
+            "name": "WATER PUMP GASOLINE",
+            "model": "EGP40",
+            "specifications": {
+                "Suction & discharge port diameter (mm (in))": "100(4”)",
+                "Rated capacity (m3/h)": 40.0,
+                "Max. Capacity (m3/h)": 75.0,
+                "Rated total head [m (ft)]": "16(52.49)",
+                "Max. total head [m (ft)]": "31(101.71)",
+                "Self-priming time (s/4m)": 180,
+                "Max suction head [m (ft)]": "8(26.16)",
+                "Rotation speed (rpm)": 3600,
+                "Fuel consumption (g/kWh)": 1150,
+                "Noise level [dB (A)/7m]": 76,
+                "Starter system": "Recoil starter",
+                "Overall dimension (LWH) (mm)": "650480600",
+                "Dry weight (kg)": 46,
+                "Engine model": "EG270"
+            }
+        }
+    ]
+}
